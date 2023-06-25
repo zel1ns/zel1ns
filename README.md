@@ -1,6 +1,6 @@
 ### 🧋 Hi there
 
-I'm Zelins - someone interested in programming and mathematics
+I'm Zelins - someone interested in programming and math
 
 I'm currently studying for the medical entrance exam, but also learning English, programming languages ​​in particular C language and also javascript
 
